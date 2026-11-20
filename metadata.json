@@ -1,0 +1,6 @@
+{
+  "name": "AGRI SIGNAL",
+  "description": "Aplikasi pertanian modern untuk memantau kondisi cuaca, lokasi, serta mendeteksi penyakit daun tanaman menggunakan AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

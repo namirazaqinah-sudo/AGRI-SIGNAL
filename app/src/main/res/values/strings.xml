@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">AGRI SIGNAL</string>
+    <string name="brand_tagline">Sinyal Cerdas Kesehatan Tanaman &amp; Cuaca Lahan</string>
+
+    <!-- Auth & Welcome -->
+    <string name="auth_tab_login">Masuk</string>
+    <string name="auth_tab_register">Daftar</string>
+    <string name="auth_label_name">Nama Lengkap</string>
+    <string name="auth_hint_name">Contoh: Pak Budi Santoso</string>
+    <string name="auth_label_phone">Nomor Telepon</string>
+    <string name="auth_hint_phone">Contoh: 081234567890</string>
+    <string name="auth_btn_register">Daftar &amp; Mulai</string>
+    <string name="auth_btn_login">Masuk ke Lahan</string>
+    <string name="auth_error_empty_name">Nama lengkap tidak boleh kosong.</string>
+    <string name="auth_error_short_name">Nama minimal 2 karakter.</string>
+    <string name="auth_error_invalid_phone">Masukkan nomor telepon yang valid (10–15 digit, diawali 08 atau +62).</string>
+    <string name="auth_error_not_found">Akun belum terdaftar atau nama tidak sesuai dengan nomor telepon.</string>
+    <string name="auth_error_already_registered">Nomor telepon sudah terdaftar. Silakan masuk melalui tab Masuk.</string>
+    <string name="welcome_greeting_format">Selamat datang, %1$s!</string>
+    <string name="welcome_voice_format">Selamat datang di Agri Signal, %1$s!</string>
+    <string name="welcome_voice_playing">Menyapa %1$s…</string>
+    <string name="welcome_voice_replay">Putar Suara Sambutan</string>
+    <string name="welcome_subtitle">Lahan Anda siap dipantau hari ini. Cek cuaca sekitar dan pindai kesehatan daun secara instan.</string>
+    <string name="welcome_cta">Buka Dasbor Utama</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_scan">Scan Daun</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Home & Weather -->
+    <string name="home_greeting_format">Halo, %1$s</string>
+    <string name="home_weather_section">Kondisi Lingkungan Saat Ini</string>
+    <string name="home_refresh_weather">Perbarui</string>
+    <string name="home_humidity_label">Kelembapan</string>
+    <string name="home_wind_label">Angin</string>
+    <string name="home_location_permission_title">Aktifkan Izin Lokasi GPS</string>
+    <string name="home_location_permission_desc">AGRI SIGNAL membutuhkan akses lokasi untuk menampilkan suhu, kelembapan, cuaca, dan nama wilayah lahan Anda secara otomatis.</string>
+    <string name="home_location_permission_btn">Izinkan Akses Lokasi</string>
+    <string name="home_quick_scan_title">Deteksi Penyakit Daun AI</string>
+    <string name="home_quick_scan_desc">Ambil foto daun tanaman untuk mengetahui kondisi kesehatan, penyebab penyakit, pengobatan, dan pencegahannya.</string>
+    <string name="home_quick_scan_btn">Scan Daun Sekarang</string>
+    <string name="home_recent_scans">Pemindaian Terakhir</string>
+    <string name="home_see_all">Lihat Semua</string>
+
+    <!-- Scan Leaf -->
+    <string name="scan_title">Scan Kesehatan Daun</string>
+    <string name="scan_subtitle">Foto daun dengan pencahayaan terang dan fokus pada bercak atau perubahan warna daun.</string>
+    <string name="scan_btn_camera">Ambil Foto Kamera</string>
+    <string name="scan_btn_gallery">Pilih dari Galeri</string>
+    <string name="scan_btn_analyze">Analisis Daun dengan AI</string>
+    <string name="scan_analyzing">Memindai gejala daun dengan AI…</string>
+    <string name="scan_healthy_badge">Daun Sehat</string>
+    <string name="scan_disease_badge">Terdeteksi Penyakit</string>
+    <string name="scan_confidence_label">Tingkat Keyakinan</string>
+    <string name="scan_cause_title">Penyebab Penyakit</string>
+    <string name="scan_treatment_title">Cara Penanggulangan &amp; Pengobatan</string>
+    <string name="scan_products_title">Pestisida / Fungisida Dianjurkan</string>
+    <string name="scan_organic_title">Solusi Organik &amp; Alami</string>
+    <string name="scan_prevention_title">Tips Pencegahan</string>
+
+    <!-- History -->
+    <string name="history_title">Riwayat Scan Daun</string>
+    <string name="history_empty_title">Belum Ada Riwayat Scan</string>
+    <string name="history_empty_desc">Foto daun tanaman pertama Anda di menu Scan Daun untuk menyimpan catatan diagnosis dan perawatannya.</string>
+    <string name="history_delete">Hapus Riwayat</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Profil Petani</string>
+    <string name="profile_logout">Keluar Akun</string>
+    <string name="profile_logout_confirm_title">Keluar dari AGRI SIGNAL?</string>
+    <string name="profile_logout_confirm_desc">Data akun dan riwayat pemindaian Anda tetap tersimpan di perangkat sehingga Anda dapat masuk kembali kapan saja.</string>
+    <string name="profile_confirm_yes">Ya, Keluar</string>
+    <string name="profile_confirm_cancel">Batal</string>
+</resources>

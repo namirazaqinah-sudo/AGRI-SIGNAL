@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="leaf_photos" path="leaf_photos/" />
+    <files-path name="exports" path="exports/" />
+    <cache-path name="camera_cache" path="camera_cache/" />
+</paths>
